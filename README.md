@@ -1,4 +1,6 @@
 # Aplicativo-De-Busca
 
 
-| Objetivo  --- | Second Header |
+| Objetivo  |
+|-----------|
+|           |
